@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://developers.cloudflare.com/load-balancing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/proxy-modes</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-logs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/region-mapping-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/monitors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/pools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-rules/actions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-rules/create-rules</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/traffic-steering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/session-affinity</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/weighted-load-balancing</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-rules/expressions</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-rules</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/troubleshooting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/understand-basics/load-balancing-rules/reference</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/best-practices</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/create-load-balancer-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://developers.cloudflare.com/load-balancing/create-load-balancer-ui</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
